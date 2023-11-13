@@ -1,0 +1,14 @@
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Presentation Layer.exe
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Presentation Layer.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.exe
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Business Logic Layer.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Business Logic Layer.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation_Layer.frmMain.resources
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation_Layer.Alumnos_Main.resources

@@ -1,0 +1,11 @@
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\bin\Debug\Data Access Layer.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\bin\Debug\Dominio.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\bin\Debug\Data Access Layer.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\bin\Debug\Dominio.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.AssemblyReference.cache
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.CopyComplete
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Business Logic Layer\obj\Debug\Business Logic Layer.pdb
