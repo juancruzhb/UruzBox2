@@ -93,6 +93,10 @@
       <Project>{019801c6-9072-43bb-b0d8-2a911756d134}</Project>
       <Name>Business Logic Layer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{913d70ef-37c9-435b-aeb1-7d1f4fd78ca8}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -12,3 +12,7 @@ D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Business Logic Layer
 D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
 D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation_Layer.frmMain.resources
 D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\obj\Debug\Presentation_Layer.Alumnos_Main.resources
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Dominio.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Data Access Layer.dll
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Dominio.pdb
+D:\JC\C#\Uruz\UruzBox2\UruzBox\Presentation Layer\bin\Debug\Data Access Layer.pdb
